@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1697833191 source:e:\assignment\main.cpp
+	<iostream>
+	"Employee.h"
+	"Manager.h"
+	<string>
+
+1697833242 e:\assignment\employee.h
+	<string>
+
+1697835933 e:\assignment\manager.h
+	"Employee.h"
+
+1697833449 source:e:\assignment\manager.cpp
+	"Manager.h"
+
+1697832817 source:e:\assignment\employee.cpp
+	"Employee.h"
+	<cstdlib>
+	<string>
+
